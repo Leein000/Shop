@@ -1,0 +1,6 @@
+name: Shop
+version: '${project.version}'
+main: newproject.shop.Shop
+api-version: 1.17
+commands:
+  shop:
